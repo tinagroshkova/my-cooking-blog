@@ -1,0 +1,25 @@
+
+title: Cooking blog
+email: tinagroshkova@gmail.com
+description: This is cooking blog inspired by exam task
+baseurl: "/cooking-blog"
+url: ""
+twitter_username: tinagroshkova
+github_username:  tinagroshkova
+destination: docs
+
+exclude:
+  - docs
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - package.json
+  - package-lock.json
+  - gulpfile.js
+  - theme-personal
+  
